@@ -1,0 +1,2 @@
+adhawk
+PySide2
